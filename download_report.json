@@ -1,0 +1,10 @@
+{
+ "downloaded": "2026-11-01",
+ "source": "OutSystems DB entities EnglishStoryBinaryEpub2 / EnglishStoryBinaryImage2 (Firebase EpubLink/ImageLink return HTTP 402: Spark plan no longer has Cloud Storage)",
+ "stories": 146,
+ "epub": 146,
+ "covers": 146,
+ "files": 292,
+ "bytes": 318217845,
+ "links": "stories.json EpubLink/ImageLink point at raw.githubusercontent.com/hieuemmmmm/StoryData/main/"
+}
